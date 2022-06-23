@@ -10,3 +10,4 @@ script that adds execution permission to the owner, the group owner and the othe
 script that sets the mode of the file hello to this -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
 script that sets the mode of the file hello the same as olleh’s mode
 Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
+Create a script that creates a directory called my_dir with permissions 751 in the working directory
