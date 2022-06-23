@@ -1,5 +1,2 @@
 #!/bin/bash
 ln -s /bin/ls __ls__
-[master 2d63946] symbolic
- 1 file changed, 2 insertions(+)
- create mode 100755 0x00-shell_basics/13-symbolic_link
